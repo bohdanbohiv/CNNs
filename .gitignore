@@ -1,0 +1,8 @@
+.vscode
+.idea
+*.keras
+horse-or-human
+PetImages
+rps
+rps-test-set
+*.png

@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+numpy
+pillow
+PyQt6
+scipy
+tensorflow[and-cuda]
+types-tensorflow
